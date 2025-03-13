@@ -1,0 +1,48 @@
+[33mcommit adf55571e1cb2815170ddcda13fe6b94c6cb365c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;32mmaster[m[33m)[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Thu Mar 13 23:14:04 2025 +0800
+
+    v1.4 a1功能完成
+
+[33mcommit 36f8792419f23c5fb5554a91d087e6d7ad51d042[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m)[m
+Merge: 17dd0ec a2effa6
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 22:01:05 2025 +0800
+
+    v1.3
+
+[33mcommit a2effa65f744769733963f360cc62753ece4b94d[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 21:58:28 2025 +0800
+
+    v1.3
+
+[33mcommit 17dd0ec66aa50112dd783b2acb8920f98e77972b[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 21:55:18 2025 +0800
+
+    v.1.2 bug修复完成
+
+[33mcommit a96e01568b4e5a4cc5fc3f37a4d33d1c108d58cf[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 21:50:23 2025 +0800
+
+    v1.3 商城功能50%
+
+[33mcommit 4b881324fa158ec415a6228bfea433845c5d3df9[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 01:54:11 2025 +0800
+
+    v1.2
+
+[33mcommit 6be7d57cbb781546cd628954516e1f629e64d2c2[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 01:12:59 2025 +0800
+
+    v1.1
+
+[33mcommit 1afa286a8062b49b869a5ba3458639bec12441ac[m
+Author: tianhongyong <15987815447@163.com>
+Date:   Wed Mar 12 01:11:10 2025 +0800
+
+    v1.0
